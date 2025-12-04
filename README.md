@@ -1,6 +1,6 @@
 # Processamento Vetorizado para Criptografia de Imagens Sensíveis
 
-## 👥 Integrantes do Grupo
+## Integrantes do Grupo
 
 | Nome | RA |
 |------|-----|
